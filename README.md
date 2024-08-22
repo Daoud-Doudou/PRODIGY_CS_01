@@ -13,3 +13,11 @@ This project implements a Caesar cipher in Python. The Caesar cipher is a simple
 - `caesar_encrypt(text, shift)`: Function that encrypts the text by applying the specified shift.
 - `caesar_decrypt(text, shift)`: Function that decrypts the text by applying a negative shift.
 - `main()`: The main function that handles user interaction to choose between encryption and decryption, then performs the selected action.
+
+## Example Usage
+
+```bash
+Would you like to encrypt or decrypt your message? (e/d): e
+Enter the message: Hello, World!
+Enter the shift value: 3
+Encrypted message: Khoor, Zruog!
